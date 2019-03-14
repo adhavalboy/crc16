@@ -1,5 +1,5 @@
 # crc16
- crc32 implementation in a many languages.
+ crc16 implementation in a many languages.
 
 List of languages
 ============================
